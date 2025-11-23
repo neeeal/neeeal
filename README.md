@@ -1,12 +1,12 @@
 ## ⭐ Currently studying: 
 <ul>
-	<li>AWS S3</li>
+	<li>Transformers</li>
 	<!-- <li>Responsive Web Design</li> -->
 	<!-- <li>Javascript DSA</li> -->
 	<!-- <li>React, Node, Expo Go, and React Native</li> -->
 	<!--<li>R Programming</li>-->
-	<li>Machine Learning</li>
-	<li>Express.js</li>
+	<li>Attention</li>
+	<!-- <li>TinyML</li> -->
 </ul>
 
 ## 💻 Tech Stack:
